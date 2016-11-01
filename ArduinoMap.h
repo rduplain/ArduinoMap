@@ -11,7 +11,7 @@
 || | Wiring Cross-platform Library
 || #
 ||
-|| @license Please see cores/Common/License.txt.
+|| @license GNU Lesser General Public License version 3.
 ||
 ||
 || Alright, so Joshua Yanchar got a little annoyed that they called this a hashmap,
