@@ -21,8 +21,8 @@
 || "hash."
 */
 
-#ifndef MAP_H
-#define MAP_H
+#ifndef ArduinoMap_h
+#define ArduinoMap_h
 
 //for convenience
 #define CreateMap(mapInstance, ktype, vtype, capacity) Map<ktype,vtype,capacity> mapInstance
@@ -246,4 +246,4 @@ class Map
 };
 
 #endif
-// MAP_H
+// ArduinoMap_h
