@@ -13,10 +13,12 @@
 ||
 || @license GNU Lesser General Public License version 3.
 ||
+|| This project is called "HashMap" in Wiring (wiring.org.co).
+|| http://wiring.uniandes.edu.co/source/trunk/wiring/firmware/libraries/HashMap/
 ||
-|| Alright, so Joshua Yanchar got a little annoyed that they called this a hashmap,
-|| given that they never touched hashing at all.  He went ahead and pulled all
-|| references to 'hash' out...
+|| Joshua Yanchar (https://github.com/Syndic) renamed it to "ArduinoMap" given
+|| that the implementation does not use hashing, and removed any references to
+|| "hash."
 */
 
 #ifndef MAP_H
